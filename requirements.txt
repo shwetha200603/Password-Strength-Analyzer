@@ -1,0 +1,14 @@
+# ======================================================================
+# REQUIREMENTS - PASSWORD STRENGTH ANALYZER
+# ======================================================================
+# This application relies entirely on Python's built-in standard libraries:
+# - re (Regular expressions for criteria matching)
+# - sys (Platform detection for ANSI console colors)
+# - sqlite3 (Embedded database management)
+# - hashlib (Secure SHA-256 cryptographic hashing)
+# - secrets (Cryptographically secure password generation)
+# - string (System helper for character categories)
+#
+# No external package installations (like pip) are required.
+# Minimum supported version: Python 3.6+
+# ======================================================================
